@@ -1,0 +1,30 @@
+Type
+Name
+Data
+TTL
+Delete
+Edit
+
+A	@	162.241.85.65	600 seconds		
+
+A	mail	162.241.85.66	1 Day		
+
+NS	@	ns23.domaincontrol.com.	1 Hour	
+Can't delete
+Can't edit
+
+NS	@	ns24.domaincontrol.com.	1 Hour	
+Can't delete
+Can't edit
+
+CNAME	webhost	srisaidattamanasapeetham.000webhostapp.com.	1/2 Hour		
+
+CNAME	webmail	srisaidattamanasapeetham.org.	1 Hour		
+
+CNAME	www	srisaidattamanasapeetham.org.	1 Hour		
+
+CNAME	_domainconnect	_domainconnect.gd.domaincontrol.com.	1 Hour		
+
+SOA	@	Primary nameserver: ns23.domaincontrol.com.	1 Hour		
+
+MX	@	mail.srisaidattamanasapeetham.org. (Priority: 0)	1 Day		
