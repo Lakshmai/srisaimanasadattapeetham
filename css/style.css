@@ -135,7 +135,7 @@ a:hover {
 .main-banner {
     position: relative;
     height: 600px;
-    background: url(../img/home-bg.png) no-repeat center;
+    background: url(../img/home-bg.jpg) no-repeat center;
     background-size: cover;
 }
 .main-banner:before {
