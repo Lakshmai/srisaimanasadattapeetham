@@ -27,7 +27,7 @@ $paramList["TXN_AMOUNT"] = $TXN_AMOUNT;
 $paramList["WEBSITE"] = PAYTM_MERCHANT_WEBSITE;
 
 
-$paramList["CALLBACK_URL"] = "https://www.srisaidattamanasapeetham.org/pgResponse.php";
+$paramList["CALLBACK_URL"] = "https://srisaidattamanasapeetham.org/pgResponse.php";
 /* 
 $paramList["MSISDN"] = $MSISDN; //Mobile number of customer
 $paramList["EMAIL"] = $EMAIL; //Email ID of customer
